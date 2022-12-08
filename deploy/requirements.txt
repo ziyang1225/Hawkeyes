@@ -1,6 +1,6 @@
 aniso8601==1.2.1
 appdirs==1.4.3
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.3
 click==6.7
 colorlog==3.1.4
